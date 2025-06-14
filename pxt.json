@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "v3": "*",
-        "audio-recording": "*"
+        "audio-recording": "*",
+        "funk": "*"
     },
     "files": [
         "main.blocks",
